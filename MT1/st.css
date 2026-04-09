@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #e03030;
+}
+
+.box {
+    background: rgb(111, 159, 231);
+    padding: 30px;
+    width: 320px;
+    margin: auto;
+    margin-top: 150px;
+    box-shadow: 10px 0px 10px rgb(8, 6, 6);
+}
+
+input, button {
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+}
+
+#result {
+    font-weight: bold;
+    margin-top: 10px;
+}
