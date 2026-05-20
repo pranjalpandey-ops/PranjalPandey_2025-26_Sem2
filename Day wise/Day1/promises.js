@@ -11,3 +11,6 @@ const checkVoteEligibility = async() => {
     console.log(response);
 }
 checkVoteEligibility();
+// myPromise
+//     .then((response) => console.log(response))
+//     .catch((error) => console.log(error.message));
